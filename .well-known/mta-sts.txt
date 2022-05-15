@@ -1,4 +1,5 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: gosia24.eu
+mx: gosia24.home.pl
 max_age: 604800
