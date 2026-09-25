@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
-mx: gosia24.eu
-mx: gosia24.home.pl
+mode: testing
+mx: aspmx1.migadu.com
+mx: aspmx2.migadu.com
 max_age: 604800
